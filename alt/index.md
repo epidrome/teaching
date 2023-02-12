@@ -10,7 +10,7 @@
 
 Να αναπτύξετε μια από τις [αρχικές εκπαιδευτικές εφαρμογές που έτρεχαν στο Xerox Alto](http://worrydream.com/EarlyHistoryOfSmalltalk/#smalltalkAndChildren), όπως ήταν το πρόγραμμα ζωγραφικής, η προσομοίωση της κίνησης του αλόγου, το βιντεοπαιχνίδι space war, με χρήση του συστήματος [Squeak](https://squeak.org), [σύντομη εισαγωγή](https://www.cl.cam.ac.uk/teaching/2002/CompProgLangs/smalltalk.html).
 
-## Α. 6η εβδομάδα, Β. 12η εβδομάδα $$$, CSCW
+## Α. 6η εβδομάδα, Β. 12η εβδομάδα $$$, CSCW, SW
 
 Να αναπτύξετε [εφαρμογή στατικών ιστοσελίδων στο oberon](http://people.inf.ethz.ch/wirth/ProjectOberon/index.html).
 
