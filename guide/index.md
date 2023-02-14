@@ -10,13 +10,13 @@
 
 ## Πρόσθετες οδηγίες
 
-* [Αποστολή παραδοτέου](https://courses-ionio.github.io/help/submit)
-* [Pull request](https://courses-ionio.github.io/help/pullrequest/)
-* [Εγγραφή στο Github](https://courses-ionio.github.io/help/register/)
-* [Προσθήκη εικόνας](https://courses-ionio.github.io/help/image/)
-* [Διαγραφή αρχείου](https://courses-ionio.github.io/help/delete/)
-* [Προβολή σελίδων](https://courses-ionio.github.io/help/pages/)
-* [Γραμμή εντολών και γραφική διεπαφή](https://courses-ionio.github.io/help/github/)
+* [Αποστολή παραδοτέου](https://epidrome.github.io/teaching/submit)
+* [Pull request](https://epidrome.github.io/teaching/pullrequest/)
+* [Εγγραφή στο Github](https://epidrome.github.io/teaching/register/)
+* [Προσθήκη εικόνας](https://epidrome.github.io/teaching/image/)
+* [Διαγραφή αρχείου](https://epidrome.github.io/teaching/delete/)
+* [Προβολή σελίδων](https://epidrome.github.io/teaching/pages/)
+* [Γραμμή εντολών και γραφική διεπαφή](https://epidrome.github.io/teaching/github/)
 
 ### Git(hub) tutorials and workflow
 
