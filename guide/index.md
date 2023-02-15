@@ -20,6 +20,8 @@
 
 ### Git(hub) tutorials and workflow
 
+[Github skills](https://skills.github.com)
+
 [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
 
 [Optimizing your profile](https://github.community/t/optimizing-your-github-profile/)
